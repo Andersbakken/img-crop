@@ -1,0 +1,9 @@
+/cmake_install.cmake
+/compile_commands.json
+/img-crop
+/build.ninja
+/rules.ninja
+/.ninja_deps
+/.ninja_log
+/CMakeCache.txt
+/CMakeFiles/
